@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-image: url("bgimage.jpg");
+	background-image: url("milky.jpg");
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -65,3 +65,5 @@ body{
 	text-decoration: none;
 	font-size: 14px;
 }
+
+
